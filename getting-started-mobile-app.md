@@ -23,6 +23,60 @@
 2. базовые возможности (улучшаются по мере использования приложения). читать о базовых возможностях можно в специальных блоках описания продуктов.
 3. возможность сразу улучшить свои нфт чтобы получить больше возможностей
 
-<table><thead><tr><th>Уровень</th><th>Ежедневники</th><th>Кроссовки</th><th>Вилки</th><th>Подушки</th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>null</td></tr><tr><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>6</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>7</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>8</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>9</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>10</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>11</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>13</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>14</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>15</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>4</td></tr><tr><td>25</td><td>-</td><td>-</td><td>-</td><td>-</td><td>4</td></tr><tr><td>30</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5</td></tr></tbody></table>
+<table><thead><tr><th>Уровень</th><th>Ежедневники</th><th>Кроссовки</th><th>Вилки</th><th>Подушки</th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>null</td></tr><tr><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>6</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>7</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>8</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>9</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>10</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>11</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>13</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>14</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>15</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3</td></tr><tr><td>20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>4</td></tr><tr><td>25</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5</td></tr></tbody></table>
+
+в таблице выше представлено распределение стоимости улучшения НФТ за внутриигровые токены. Расчёт получаемых токенов и приблизительное время, необходимое для перехода на следующий уровень и получения дополнительных бонусов и отслеживаемых параметров можно найти в таблице ниже. Более детальную информацию можно получить в блоках Upgrades внутри описания каждого из GameFi элементов экосистемы.
+
+{% tabs %}
+{% tab title="Дневник" %}
+| Уровень | токенов для перехода на следующий уровень |
+| ------- | ----------------------------------------- |
+| 0       | 20                                        |
+| 1       | 45                                        |
+| 2       | 46                                        |
+| 3       | 47                                        |
+| 4       | 64                                        |
+| 5       | 66                                        |
+| 6       | 68                                        |
+| 7       | 70                                        |
+| 8       | 91                                        |
+| 9       | 95                                        |
+| 10      | 100                                       |
+| 11      | 142                                       |
+| 12      | 145                                       |
+| 13      | 150                                       |
+| 14      | 154                                       |
+| 15      | 161                                       |
+| 20      | 250                                       |
+| 25      | -                                         |
+{% endtab %}
+
+{% tab title="Еда" %}
+|   |   |
+| - | - |
+|   |   |
+|   |   |
+|   |   |
+{% endtab %}
+
+{% tab title="Движения" %}
+|   |   |
+| - | - |
+|   |   |
+|   |   |
+|   |   |
+{% endtab %}
+
+{% tab title="Сон" %}
+|   |    |
+| - | -- |
+| 0 | 50 |
+| 1 |    |
+| 2 |    |
+| 3 |    |
+| 4 |    |
+| 5 |    |
+{% endtab %}
+{% endtabs %}
 
 Также вы можете подключить к приложению свои смарт-часы для отслеживания большего количества параметров и беспрерывного отслеживания здоровья.
