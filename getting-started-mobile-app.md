@@ -4,12 +4,12 @@
 
 для получения полного спектра преимуществ использования нашей экосистемы мы рекомендуем использовать обе версии:
 
-{% content-ref url="web-app.md" %}
-[web-app.md](web-app.md)
+{% content-ref url="getting-started/web-app.md" %}
+[web-app.md](getting-started/web-app.md)
 {% endcontent-ref %}
 
 &
 
-{% content-ref url="mobile-app.md" %}
-[mobile-app.md](mobile-app.md)
+{% content-ref url="getting-started/mobile-app.md" %}
+[mobile-app.md](getting-started/mobile-app.md)
 {% endcontent-ref %}
