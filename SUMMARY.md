@@ -4,6 +4,7 @@
 * [Getting Started](getting-started-mobile-app.md)
   * [Web app](getting-started/web-app.md)
   * [Mobile app](getting-started/mobile-app.md)
+  * [Web vs Mobile](getting-started/web-vs-mobile.md)
 * [Отслеживаемые параметры медицинских показателей (полный список)](otslezhivaemye-parametry-medicinskikh-pokazatelei-polnyi-spisok.md)
 * [Game-Fi Elements](game-fi-elements/README.md)
   * [Будь здоров!](game-fi-elements/bud-zdorov/README.md)
